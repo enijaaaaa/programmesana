@@ -1,5 +1,23 @@
-jjsdhfjsdhfj
-1. dokuments - aprakstīt, ko nozīmē atvērtā brīvkoda programmatūra (open source)
-, ar ko atšķiras no slēgtā koda programmatūru
+Atvērtā brīvkoda programmatūra (open source) ir programmatūra, kuras pirmkods ir publiski pieejams ikvienam.
+Tas nozīmē, ka lietotāji var apskatīt programmas kodu, saprast, kā tas darbojas, un, ja nepieciešams, to mainīt vai uzlabot.
 
+Brīvkoda programmatūra parasti tiek izstrādāta sadarbībā ar programmētāju kopienām no visas pasaules.
+Šāda pieeja ļauj ātri novērst kļūdas, uzlabot drošību un nodrošināt augstu programmas kvalitāti.
+Bieži vien brīvkoda programmatūra ir pieejama bez maksas, tomēr to var izmantot arī komercionāli, ievērojot licences noteikumus.
+
+
+Brīvkoda programmatūras nosacījumi:
+- Brīvi izmantot programmu jebkuriem nolūkiem.
+- Brīvi pētīt un mainīt programmas pirmkodu.
+- Brīvi kopēt un izplatīt sākotnējo programmas versiju, lai palīdzētu savam kaimiņam u.c.
+- Brīvi izplatīt savu mainīto un uzlaboto programmas versiju, tādējādi nodrošinot labumu sabiedrībai.
+
+Brīvkoda programmatūras piemēri: Android, Python, Chrome, Firefox, Linux
+
+Slēgtā koda programmatūra (closed source) ir programmatūra, kuras pirmkods nav pieejams lietotājiem. 
+Lietotājs drīkst programmu izmantot tikai tā, kā to atļauj ražotājs, un nevar mainīt vai izplatīt kodu.
+
+Slēgtā koda programmatūras piemēri: Microsoft Windows, Microsoft Office, iOS, Adobe Photoshop
+
+Atšķirības starp brīvkoda un slēgtā koda programmatūru:
 
