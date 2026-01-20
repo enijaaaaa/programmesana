@@ -1,1 +1,25 @@
-dfdfgddfgdf
+2. dokuments - aprakstīt, ko nozīmē brīvkoda licences (Free software), salīdzināt vienu no tām ar Apache vai MIT licenci.
+
+Šo terminu ieviesa Ričards  Ričards Stallmans, cīnoties par programmatūras
+lietotāju tiesībām. Lai programma būtu brīvā programmatūra, tai jāizpildās sekojošiem četriem nosacījumiem (t.s. "brīvībām"):
+1. Brīvi izmantot programmu jebkuriem nolūkiem.
+2. Brīvi pētīt un mainīt programmas pirmkodu.
+3. Brīvi kopēt un izplatīt sākotnējo programmas versiju, lai palīdzētu savam kaimiņam u.c.
+4. Brīvi izplatīt savu mainīto un uzlaboto programmas versiju, tādējādi nodrošinot labumu sabiedrībai.
+Brīvās licences regulē un nosaka to, vai/kā drīkst izplatīt izmaiņas, vai jāpublicē pirmkods, kā jānorāda autors utt.
+
+Ja programmatūra atbilst šiem kritērijiem, programmas lietotājs to var droši izmantot, nebaidoties, ka pēc laika tā būs
+pieejama tikai par maksu (kā tas var būt ar bezmaksas bet nebrīvo programmatūru), ka to kāds varētu monopolizēt vai pārtraukt izlaist.
+
+Salīdzinājums starp brīvkoda licenci (Firefox licence MPL 2.0) un Apache 2.0 licenci:
+Firefox licences īpašības: pirmkods ir brīvi pieejams, drīkst modificēt un izplatīt, to var izmantot komerciāli, ir saderīga ar GPL,
+modificētie faili jāizplata ar MPL 2.0, viss projekts NAV obligāti jāpadara brīvs.
+
+Apache licences īpašības: drīkst lietot, modificēt un izplatīt bez ierobežojumiem, to var iekļaut slēgtā koda un komerciālos produktos,
+nav pienākuma publicēt izmaiņas, jāsaglabā autora paziņojumi un licences teksts, iekļauj patentu aizsardzību.
+
+Kopsavilkums/salīdzinājums:
+Licences tips Firefox ir vājš copyleft, savukārt Apache - permisīvs. Firefox izmaiņas ir jāpublisko, Apache - nē. Firefox licencei slēgts
+kods ir daļēji atļauts, savukārt Apache tas ir pilnīgi atļauts. Firefox netiek aizsargāti patenti, taču ar Apache tas tiek darīts. Firefox
+ir vidēja kontrole pār atvasinājumiem, taču Apache tā ir minimāla.
+
